@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Large raw archive files
+data/*.zip
+data/archive_extracted/
+data/sms_extracted/
+
+# Byte-compiled / optimized / DLL files
+*.dll
+*.pyd
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
